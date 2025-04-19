@@ -32,27 +32,6 @@ Create and manage multiple trips with detailed itineraries.
 ### Travel Notes
 Keep track of important information for each destination.
 
-## Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/travelio.git
-
-# Navigate to the project directory
-cd travelio
-
-# Open with Android Studio or build with Gradle
-./gradlew build
-```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Say goodbye to travel information overload and hello to streamlined adventures with Travelio! 🗺️📱
