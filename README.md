@@ -2,7 +2,6 @@
 
 # 🧭 Travelio - Your Pocket Travel Companion! 🏝️
 
-![Travelio Banner](/api/placeholder/800/200)
 
 Proud to showcase our team's latest creation - a sleek travel organization solution that transforms how you plan your adventures!
 
@@ -18,13 +17,6 @@ Proud to showcase our team's latest creation - a sleek travel organization solut
 * 💻 **Kotlin** - Creating a smooth, native Android experience
 * 🔥 **Firebase Firestore** - Ensuring reliable data storage and synchronization
 
-## Screenshots
-
-<div align="center">
-  <img src="/api/placeholder/200/400" width="200" alt="Home Screen">
-  <img src="/api/placeholder/200/400" width="200" alt="Trip Planning">
-  <img src="/api/placeholder/200/400" width="200" alt="Itinerary View">
-</div>
 
 ## Features
 
@@ -36,9 +28,6 @@ Customize your profile with preferences that enhance your travel experience.
 
 ### Trip Planning
 Create and manage multiple trips with detailed itineraries.
-
-### Destination Discovery
-Find new places to visit with our comprehensive search feature.
 
 ### Travel Notes
 Keep track of important information for each destination.
